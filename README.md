@@ -64,10 +64,10 @@ The core processor of DT-W5G1 module adopts ultra-low power processor and 2G-5G 
 
 ## Download
 
-- [user manual](files/DOIT_DT-W5G1(V1_1)_doc.pdf)
-- [LocalLinuxSetup.zip](files/LocalLinuxSetup.zip)
-- [ManualforDTW5G1.zip](files/ManualforDTW5G1.zip)
-- [WF6000_Multi_DownLoader_190902.zip](files/WF6000_Multi_DownLoader_190902.zip)
+- [user manual](https://github.com/ElectronicaXAB3/DT-W5G1-5G-WIFI-MODULE---WF6000/raw/master/files/DOIT_DT-W5G1(V1_1)_doc.pdf)
+- [LocalLinuxSetup.zip](https://github.com/ElectronicaXAB3/DT-W5G1-5G-WIFI-MODULE---WF6000/raw/master/files/LocalLinuxSetup.zip)
+- [ManualforDTW5G1.zip](https://github.com/ElectronicaXAB3/DT-W5G1-5G-WIFI-MODULE---WF6000/raw/master/files/ManualforDTW5G1.zip)
+- [WF6000_Multi_DownLoader_190902.zip](https://github.com/ElectronicaXAB3/DT-W5G1-5G-WIFI-MODULE---WF6000/raw/master/files/WF6000_Multi_DownLoader_190902.zip)
 
 ## Resources
 
