@@ -19,48 +19,48 @@ The core processor of DT-W5G1 module adopts ultra-low power processor and 2G-5G 
 - SOC specifications
 - Built-in 160MHz MIPS RISC processor
 - 512K SRAM
-- Communication speed: 72Mbps（20MHz）
+- Communication speed: 72Mbps (20MHz)
 - Optimum balance &LLR quantification
 
 ## Wi-Fi specifications
 
-- Support 802.11 a/b/g/n,2.4-2.5GHz,4.9-5.85GHz
-- 2.4GHz Rx sensitivity: -75dBm/11n HT20 MCS7,Tx power: 21dBm
+- Support 802.11 a/b/g/n, 2.4 - 2.5GHz, 4.9 - 5.85GHz
+- 2.4GHz Rx sensitivity: -75dBm/11n HT20 MCS7, Tx power: 21dBm
 - 5GHz Rx sensitivity: -74dBm/11n HT20 MCS7, Tx power: 16.5dBm
 - Support Station, SoftAP mode
-- Support Wi-Fi Direct(P2P)
-- Support CCMP(CBC-MAC, computing mode), TKIP(MIC、RC4), WAPI(SMS4), WEP(RC4)、CRC hardware acceleration
+- Support Wi-Fi Direct (P2P)
+- Support CCMP (CBC-MAC, computing mode), TKIP (MICRC4), WAPI (SMS4), WEP (RC4) CRC hardware acceleration
 - P2P discovery, P2P GO mode/GC mode and P2P power management
 - Support seamless roamless
-- Support AT remote updation and cloud OTA updation;
-- Support SmartConfig function for Android and iOS device SmartConfig.
+- Support AT remote update and cloud OTA update
+- Support SmartConfig function for Android and iOS device SmartConfig
 
 ## Peripheral for Module
 
-- 2xUART
-- 3xADC
-- 1xHSPI
-- 1xI2C
-- 1xI2S
-- 2xDMA
-- 2xPWM
-- Max 23xGPIOs
+- 2 x UART
+- 3 x ADC
+- 1 x HSPI
+- 1 x I2C
+- 1 x I2S
+- 2 x DMA
+- 2 x PWM
+- Max 23 x GPIOs
 - 2M byte SPI Flash
-- Working temperature: -30℃-85℃
-- Module size: 17.5mm×34.5mm
+- Working temperature: -30℃ - 85℃
+- Module size: 17.5mm × 34.5mm
 
 ## Application
 
-- Serial Transparent transmission;
-- Smart power plug/Smart LED light;
-- Sensor networks;
-- Wearable electronics;
-- Security ID label;
-- Wireless location recognition;
-- Wireless location system beacon;
-- WiFi prober;
-- Mesh networks;
-- Industrial wireless con
+- Serial Transparent transmission
+- Smart power plug/Smart LED light
+- Sensor networks
+- Wearable electronics
+- Security ID label
+- Wireless location recognition
+- Wireless location system beacon
+- WiFi prober
+- Mesh networks
+- Industrial wireless control
 
 ## Download
 
